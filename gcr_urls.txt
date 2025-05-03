@@ -1,0 +1,2 @@
+Backend: https://backend-z5ayxyaklq-uc.a.run.app
+Frontend: https://frontend-z5ayxyaklq-uc.a.run.app
